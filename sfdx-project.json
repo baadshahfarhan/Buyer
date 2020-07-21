@@ -4,13 +4,14 @@
     "default" : true,
     "package" : "Buyer",
     "versionName" : "Buyer",
-    "versionNumber" : "1.0.0.0"
+    "versionNumber" : "1.0.0.6"
   } ],
   "namespace" : "",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "48.0",
   "packageAliases" : {
     "Buyer" : "0Ho6g000000PBGgCAO",
-    "Buyer@1.0.0.0" : "04t6g000008arkNAAQ"
+    "Buyer@1.0.0.0" : "04t6g000008arkNAAQ",
+    "Buyer@1.0.0.6" : "04t6g000008arkSAAQ"
   }
 }
