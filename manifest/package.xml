@@ -3,10 +3,12 @@
     <version>47.0</version>
     <types>
         <members>Buyer__c</members>
+        <members>Seller__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>Buyer__c-Buyer Layout</members>
+        <members>Seller__c-Seller Layout</members>
         <name>Layout</name>
     </types>
 </Package>
